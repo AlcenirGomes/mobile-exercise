@@ -3,7 +3,7 @@
  * pessoa e mostre uma mensagem de boas-vindas para ela:
  * Ex:
  * Qual é o seu nome? Alcenir Gomes.
- * Olá Alcenir Gomes, é um prazer te conhecer!
+ * Olá Alcenir Gomes, é um prazer te conhecer!!
  */
 
 fun main(){
