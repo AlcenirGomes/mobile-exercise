@@ -1,5 +1,5 @@
 /**
- * 07 - Faça um programa em Kotlin que leia um número inteiro e mostre o seu
+ * 06 - Faça um programa em Kotlin que leia um número inteiro e mostre o seu
  * antecessor e seu sucessor.
  * Ex:
  * Digite um número: 9
