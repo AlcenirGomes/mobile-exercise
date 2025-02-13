@@ -15,3 +15,4 @@ fun main() {
     var total = (dias * 90) + (km * 0.20)
 
     println("O total a pagar é de: R$%.2f".format(total))
+}
