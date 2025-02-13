@@ -1,5 +1,5 @@
 /**
- * 08 - Crie um programa em Kotlin que leia um número real e mostre na
+ * 07 - Crie um programa em Kotlin que leia um número real e mostre na
  * tela o seu dobro e a sua terça parte.
  * Ex:
  * Digite um número: 3.5
