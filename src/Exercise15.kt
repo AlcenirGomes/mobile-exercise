@@ -5,13 +5,12 @@
  */
 
 fun main() {
-    println("Digite o número de dias trabalhados: ")
-    val dias = readln().toInt()
+    println("Digite o número de dias trabalhados no mês: ")
+    var dias = readln().toDouble()
 
-    println("Digite o salário por dia: ")
-    val salario = readln().toDouble()
+    var salario = 8 * 25
 
-    val salarioTotal = dias * salario
+    var salarioTotal = dias * salario
 
     println("O salário total é: R$%.2f".format(salarioTotal))
 }
