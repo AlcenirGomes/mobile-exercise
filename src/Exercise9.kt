@@ -7,7 +7,7 @@
 fun main(){
     println("Digite quanto dinheiro tem na carteira: ")
     var real = readln().toDouble()
-    var dollar = String.format("%.2f",real * 3.45)
+    var dollar = String.format("%.2f",real / 3.45)
 
-    println("Pode comprar US$$dollar")
+    println("Pode comprar US$${dollar}")
 }
