@@ -12,5 +12,5 @@ fun main() {
 
     var salarioTotal = dias * salario
 
-    println("O salário total é: R$%.2f".format(salarioTotal))
+    println("O salário total é de: R$%.2f".format(salarioTotal))
 }
